@@ -13,9 +13,20 @@ AI adoption is a workflow and management problem before it is a model-selection 
 - [Use-case canvas](templates/use-case-canvas.md)
 - [Research references](REFERENCES.md)
 
-## Planned, not yet delivered
+## Workshop and supervised pilot package
 
-Role-specific learning paths, reusable prompt/context patterns, verification and risk-review checklists, a manager scorecard, and an incident/feedback loop remain development work. This repository does not yet demonstrate a measured training pilot.
+- [Facilitator guide and role variations](curriculum/03-facilitator-guide.md)
+- [Synthetic source-checking lab, reusable prompt and answer key](curriculum/04-source-checking-lab.md)
+- [Learner assessment and readiness rubric](templates/assessment.md)
+- [Pilot measurement, feedback, incident and handoff record](templates/pilot-feedback-handoff.md)
+
+Run the offline exercise without any model account. Start with the facilitator guide, then complete the lab and assessment before proposing a real pilot.
+
+## Verification and limits
+
+Run `python3 scripts/check_materials.py` to check local Markdown links, workshop section presence and punctuation. CI runs the same structural checks. These checks do not evaluate teaching quality or prove learning outcomes.
+
+The materials are implemented, but no measured client training pilot is claimed. Detailed industry-specific courses and demonstrated business outcomes remain outside this public example.
 
 ## Optional training alongside deployment
 
