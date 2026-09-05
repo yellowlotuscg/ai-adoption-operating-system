@@ -6,16 +6,20 @@ A practical training and governance framework for helping teams use AI better wi
 
 AI adoption is a workflow and management problem before it is a model-selection problem. People need safe-use rules, context practices, verification habits, role-specific examples, and a way to improve the workflow after the pilot.
 
-## Included framework
+## Included today
 
-- readiness and use-case canvas
-- role-based learning path
-- prompt and context patterns
-- verification checklist
-- risk review
-- manager scorecard
-- human-oversight checklist
-- incident and feedback loop
+- [Safe-use introduction](curriculum/01-safe-use.md)
+- [Task decomposition exercise](curriculum/02-task-decomposition.md)
+- [Use-case canvas](templates/use-case-canvas.md)
+- [Research references](REFERENCES.md)
+
+## Planned, not yet delivered
+
+Role-specific learning paths, reusable prompt/context patterns, verification and risk-review checklists, a manager scorecard, and an incident/feedback loop remain development work. This repository does not yet demonstrate a measured training pilot.
+
+## Optional training alongside deployment
+
+Yellow Lotus Consulting Group offers practical AI training as an optional part of a small-business deployment. The aim is to help staff use the system in everyday work, check results, protect business information and recognize when human review is needed. This describes an available service, not past client results.
 
 ## Suggested sequence
 
